@@ -1,0 +1,18 @@
+Django is a back-end server side web framework.
+
+Django is free, open source and written in Python.
+
+Django makes it easier to build web pages using Python.
+
+Django emphasizes reusability of components, also refereed to as DRY (Don't Repeat Yourself), and comes with ready-to-use features like login system, database connection and CRUD operations (Create Read Update Delete).
+
+# Django is especially helpful for database driven websites.
+
+
+Django follows the MVT design pattern (Model View Template).
+
+Model - The data you want to present, usually data from a database.
+View - A request handler that returns the relevant template and content - based on the request from the user.
+Template - A text file (like an HTML file) containing the layout of the web page, with logic on how to display the data.
+
+
