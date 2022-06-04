@@ -6,3 +6,10 @@ git remote add origin https://github.com/toushifhossain1/LearningDjango.git
 git push -u origin main
 
 
+from next time:
+
+git init
+git add -A
+git commit -m "commit message"
+
+git push
